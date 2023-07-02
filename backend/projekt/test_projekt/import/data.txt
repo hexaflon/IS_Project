@@ -1,0 +1,2 @@
+xml Liczba ludności Gminy Miejskiej Przemyśl od 2011 roku z podziałem na kobiety i mężczyzn w poszczególnych latach od roku 2011-2023 
+json to Liczba ludności Gminy Miejskiej Przemyśl od 2008 roku z podziałem na kobiety i mężczyzn w poszczególnych latach od roku 2011-2023
