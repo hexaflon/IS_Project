@@ -1,0 +1,33 @@
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.AssemblyInfo.cs
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\appsettings.json
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\IS_Lab8_JWT.exe
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\IS_Lab8_JWT.deps.json
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\IS_Lab8_JWT.runtimeconfig.json
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\IS_Lab8_JWT.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\IS_Lab8_JWT.pdb
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\scopedcss\bundle\IS_Lab8_JWT.styles.css
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.csproj.CopyComplete
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\refint\IS_Lab8_JWT.dll
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.pdb
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\IS_Lab8_JWT.genruntimeconfig.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\ref\IS_Lab8_JWT.dll
+C:\Users\Hexa\Desktop\STUDIA\Integracja systemó\IS_LAB_8\kod źródłowy\obj\Debug\net6.0\IS_Lab8_JWT.dll
+C:\Users\Hexa\Desktop\STUDIA\Integracja systemó\IS_LAB_8\kod źródłowy\obj\Debug\net6.0\refint\IS_Lab8_JWT.dll
+C:\Users\Hexa\Desktop\STUDIA\Integracja systemó\IS_LAB_8\kod źródłowy\obj\Debug\net6.0\IS_Lab8_JWT.pdb

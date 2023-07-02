@@ -1,0 +1,199 @@
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\appsettings.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.exe
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.deps.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.runtimeconfig.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.pdb
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.AssemblyReference.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.AssemblyInfoInputs.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.AssemblyInfo.cs
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\scopedcss\bundle\test_projekt.styles.css
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.CopyComplete
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\refint\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.pdb
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.genruntimeconfig.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\obj\Debug\net6.0\ref\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\import\data.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\test_projekt\test_projekt\bin\Debug\net6.0\export\data.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\import\data.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\appsettings.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.exe
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.deps.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.runtimeconfig.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.pdb
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.AssemblyReference.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.AssemblyInfoInputs.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.AssemblyInfo.cs
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\scopedcss\bundle\test_projekt.styles.css
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.CopyComplete
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\refint\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.pdb
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.genruntimeconfig.cache
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\ref\test_projekt.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\export\liczba_bezrobotnych.json
+C:\Users\Hexa\Desktop\DejmCiSzarp\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\export\liczba_mieszkancow.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\export\liczba_bezrobotnych.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\export\liczba_mieszkancow.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\import\data.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.exe
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.deps.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.runtimeconfig.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\test_projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets\msbuild.test_projekt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets\msbuild.build.test_projekt.props
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.test_projekt.props
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.test_projekt.props
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\scopedcss\bundle\test_projekt.styles.css
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.csproj.CopyComplete
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\refint\test_projekt.dll
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\test_projekt.genruntimeconfig.cache
+C:\Users\DELL\Desktop\PROJEKT POBRANY Z SERWAER\Projekt_IS\backend\test_projekt\test_projekt\obj\Debug\net6.0\ref\test_projekt.dll

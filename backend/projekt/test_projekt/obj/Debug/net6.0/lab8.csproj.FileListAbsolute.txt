@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\lab8.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\lab8.AssemblyInfo.cs
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\lab8.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lab8\lab8\lab8\obj\Debug\net6.0\lab8.MvcApplicationPartsAssemblyInfo.cache
